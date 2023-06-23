@@ -8,7 +8,7 @@ git pull:
 
 git checkout:
 
-git log:
+git log: muestra el o los cambios historico de los cambios en todo el archivo
 
 git branch:
 
